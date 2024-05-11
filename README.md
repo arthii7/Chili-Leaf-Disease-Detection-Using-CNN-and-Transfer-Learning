@@ -1,4 +1,5 @@
-Chili Leaf Disease Detection
+##Chili Leaf Disease Detection
+
 Overview:
 The Chili Leaf Disease Detection project aims to develop a system for automatically detecting diseases in chili plant leaves using machine learning and computer vision techniques. Plant diseases can have significant economic impact by reducing crop yield and quality. By providing early detection of diseases, this project aims to help farmers take proactive measures to mitigate the spread of diseases and protect their crop yield.
 
